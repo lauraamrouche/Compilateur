@@ -1,0 +1,5 @@
+taille = 175
+poids = 77
+
+IMC = poids / (taille^2)
+IMC_2 = poids / (taille**2)
